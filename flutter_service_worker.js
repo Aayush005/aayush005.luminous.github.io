@@ -6,9 +6,9 @@ const RESOURCES = {
   "version.json": "f76187616fa41dd5c313122562489ba2",
 "index.html": "45b820b96a271bf71613a8305be50731",
 "/": "45b820b96a271bf71613a8305be50731",
-"main.dart.js": "b931448d2f99050c03f111b8d73a32df",
+"main.dart.js": "6566438da820bafaafd20e1010849ffb",
 "assets/AssetManifest.json": "f41fbb8473d7e3cfcc4a6f342301c1fc",
-"assets/NOTICES": "03c450c2b972e645c005b581cb2f1a86",
+"assets/NOTICES": "e5f638be61b7fc8f26eb53daa6b21be0",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -24,7 +24,11 @@ const RESOURCES = {
 "assets/assets/img1.png": "e3b9055a0a623c240256e1192ea93703",
 "assets/assets/call.png": "c5bf6a4576a6d00007d7ec980afc1c84",
 "assets/assets/clock.png": "ccbe98c982f78ef192b05985647047b6",
-"assets/assets/doctor_pic2.png": "487c7f49145f27c290d06bffa730c309"
+"assets/assets/doctor_pic2.png": "487c7f49145f27c290d06bffa730c309",
+"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
+"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
+"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
+"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498"
 };
 
 // The application shell files that are downloaded before a service worker can
